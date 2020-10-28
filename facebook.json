@@ -1,0 +1,15 @@
+{
+    "user": {
+        "short_token": "to be added manually",
+        "long_token": "None"
+    },
+    "app": {
+        "id": "to be added manually",
+        "secret": "to be added manually"
+    },
+    "page": {
+        "token": "None",
+        "id": "None"
+    },
+    "sdk_version": "3.0"
+}
